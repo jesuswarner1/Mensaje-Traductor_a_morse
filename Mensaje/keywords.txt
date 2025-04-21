@@ -1,4 +1,0 @@
-Mensaje                     KEYWORD1
-traductorMorse              KEYWORD2
-traductorMorseCompleto      KEYWORD3
-tiempoPunto                 KEYWORD4

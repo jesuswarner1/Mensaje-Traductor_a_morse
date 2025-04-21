@@ -1,7 +1,0 @@
-name=Mensaje
-version=1.0.0
-author=Jesus Warner (El wawa)
-sentence=Traduce mensajes a codigo morse.
-paragraph=Esta librería que traduce mensajes normales de texto a codigo morse de manera visual con un led, con un buzzer si lo quieres escuchar o con las dos juntas.
-category=traducciones
-
